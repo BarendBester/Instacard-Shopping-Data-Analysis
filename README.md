@@ -3,8 +3,8 @@ Repository for analysis of data with Python coding.
 
 This project is an analysis of Instacart Grocery Basket Data. 
 
-Stakeholders from Instacard were inetrested in the variety of their customers and purchasing behaviours of these customers. 
-This analysis is a descriptive analysis of data using Numpy, Pandas, and MAtplot to identify better marketing strategies for stakeholders.
+Stakeholders from Instacard were interested in the variety of their customers and purchasing behaviours.
+This is descriptive analysis of data using Numpy, Pandas, and Matplot to identify better marketing strategies for stakeholders.
 The sales team was curious as to when the busiest days, hours, of the week were.
 Which products are more popular, and which customers are ordering these products.
 
