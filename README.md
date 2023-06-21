@@ -19,4 +19,5 @@ Note this is a project created via Careerfoundry via open source data.
 Data source: The Instacart Online Grocery Shopping
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
 via Kaggle on 2023/05/20
-![grafik](https://github.com/WhiteShark911/Python-code/assets/121133689/dc357441-da7a-4620-a561-2370d2483bf8)
+
+![grafik](https://github.com/WhiteShark911/Python-code/assets/121133689/64018f86-7263-4b5e-9111-3f9c41d20bd2)
