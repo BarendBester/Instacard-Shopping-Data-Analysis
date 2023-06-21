@@ -2,6 +2,7 @@
 Repository for analysis of data with Python coding.
 
 This project is an analysis of Instacart Grocery Basket Data. 
+![grafik](https://github.com/WhiteShark911/Python-code/assets/121133689/a5758b91-727c-4fbd-9437-cfb3bba6bbad)
 
 Stakeholders from Instacard were interested in the variety of their customers and purchasing behaviours.
 This is descriptive analysis of data using Numpy, Pandas, and Matplot to identify better marketing strategies for stakeholders.
