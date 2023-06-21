@@ -11,9 +11,9 @@ The sales team was curious as to when the busiest days, hours, of the week were.
 Which products are more popular, and which customers are ordering these products.
 ## Questions
 * The distribution among users in regards to brand loyalty?
-* Do customers with different loaylty status have different ordering habots?
+* Do customers with different loyalty status have different ordering habits?
 * Do customers from different regions have different ordering habits?
-* Does family status and age havean inffluence on ordering habits?
+* Does family status and age have an inffluence on ordering habits?
 
 Note this is a project created via Careerfoundry via open source data.
 Data source: The Instacart Online Grocery Shopping
