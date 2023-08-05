@@ -1,5 +1,5 @@
 # Instacard online shopping
-Repository for analysis of data with Python coding.
+Repository for data analysis of shopping application data with Python exploration
 
 ## This project is an analysis of Instacart Grocery Basket Data. 
 
